@@ -6,6 +6,7 @@ Tutorials
 ---
 [Video Tutorial](https://www.youtube.com/watch?v=UI6lqHOVHic)  
 [Detailed Text Tutorial](https://www.tutorialspoint.com/uml/uml_overview.htm)  
+[UML 2.5 Specification](https://www.uml-diagrams.org/uml-25-diagrams.html)
 
 Common Senses  
 ---
