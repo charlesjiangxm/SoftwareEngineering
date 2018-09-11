@@ -14,4 +14,5 @@ A "owns" B = Composition : B has no meaning or purpose in the system without A
 A "uses" B = Aggregation : B exists independently (conceptually) from A  
 Example:  
 A Company is an aggregation of People. A Company is a composition of Accounts. When a Company ceases to do business its Accounts cease to exist but its People continue to exist.  
-2. 
+2. Association:  
+Association just means A and B has relationships  
